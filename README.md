@@ -65,4 +65,3 @@ The interactive dashboard enables businesses to:
 ✅ Expand store locations based on high-performing zones.
 
 
-How do sales vary by product category and type?
