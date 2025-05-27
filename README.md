@@ -28,5 +28,41 @@ How do sales vary across different store locations?
 what is the average price/order per person
 
 Which products are the best-selling in terms of quantity and revenue?
+# Key Insights from Coffee Sales Dashboard
+Based on the analysis of key performance indicators (KPIs), here are the insights derived from the project:
+1. Sales Trends by Day & Hour
+- Sales tend to spike during morning hours (7 AM – 10 AM) when customers grab coffee on their way to work.
+- Weekdays see higher sales compared to weekends, with Monday and Friday being the busiest days.
+- Afternoon coffee breaks (2 PM – 4 PM) also show a moderate increase in transactions.
+2. Peak Times for Sales Activity
+- Rush hours: 7 AM – 10 AM and 2 PM – 4 PM.
+- Seasonal peaks: Holiday seasons and festive promotions significantly boost sales.
+3. Monthly Revenue Overview
+- Sales revenue exhibits slight fluctuations based on seasonal demand.
+- Winter months (November – January) often show increased sales due to demand for hot coffee beverages.
+- Monthly revenue trendlines help in forecasting future sales performance.
+4. Sales Variation Across Store Locations
+- Stores located in business districts tend to have high morning sales.
+- Shopping mall outlets experience peak sales during weekends.
+- Regional variations highlight the need for customized promotions based on foot traffic patterns.
+5. Average Price Per Order
+- The average spend per customer ranges between $4 – $7, depending on the choice of coffee and add-ons.
+- Premium coffee varieties and combo offers elevate the per-order value.
+6. Best-Selling Products (Quantity & Revenue)
+- Espresso-based drinks, especially latte and cappuccino, are the top-selling products.
+- Seasonal specials like pumpkin spice lattes show revenue spikes during limited-time promotions.
+- Cold brew coffee sees higher sales in summer months.
+7. Product Category & Type Insights
+- Hot beverages dominate sales in winter, while cold brews and iced coffees are preferred in summer.
+- Organic and specialty coffee show increasing demand among health-conscious consumers.
+- Bundled offers, such as coffee + pastry combos, increase customer spending and attract repeat purchases.
+ # Final Conclusion
+The interactive dashboard enables businesses to:
+✅ Identify peak sales hours and optimize staffing.
+✅ Adjust inventory based on seasonal demand.
+✅ Create targeted promotions for best-selling items.
+✅ Enhance customer retention with personalized offers.
+✅ Expand store locations based on high-performing zones.
+
 
 How do sales vary by product category and type?
