@@ -16,3 +16,11 @@ The primary goal of this project is to create an interactive and insightful dash
 - Final Testing & Optimization – Validate the accuracy of calculations, test interactivity, and refine usability for an intuitive user experience.
 - Deployment & User Training – Share the dashboard with stakeholders, ensure accessibility, and guide users on maximizing insights.
 This process ensures a dynamic, data-driven, and visually compelling dashboard for optimizing coffee sales strategies.
+# Questions(KPIs)
+How do sales vary by day of the week and hour of the day?
+Are there any peak times for sales activity?
+What is the total sales revenue for each month?
+How do sales vary across different store locations?
+what is the average price/order per person
+Which products are the best-selling in terms of quantity and revenue?
+How do sales vary by product category and type?
